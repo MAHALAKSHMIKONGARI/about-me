@@ -27,6 +27,7 @@ The below are few links for getting in deep into the github. I found this resour
 - [Git](https://git-scm.com/)
 
 ## Contributors
-My name is Maha Lakshmi Kongari. I'm a new student who joined this fall, pursuing Masters in Applied Computer Science. 
 
-![]
+My name is Maha Lakshmi Kongari. I'm a new student who joined this fall, pursuing Masters in Applied Computer Science. Here is one of my favorite image.
+
+![](https://raw.githubusercontent.com/MAHALAKSHMIKONGARI/about-me/master/IMG_20180830_133329.jpg)
