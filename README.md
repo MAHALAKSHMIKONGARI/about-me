@@ -17,7 +17,7 @@ In order to publish a repository with Github pages, we use a web browser. The pu
 - [Chromium](https://chromium.googlesource.com/)
 - [Iridium](https://iridiumbrowser.de/)
 
-## Recommended Resource
+## Recommended Resources
 
 The below are few links for getting in deep into the github. I found this resources useful for web developing using github. As I am new to Github, I found these resources very useful. 
 
